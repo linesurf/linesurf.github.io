@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60511697-27ed-4e72-a56e-657803da574b" name="Default Changelist" comment="" />
+    <list default="true" id="815fd173-5f98-4c37-8548-a308d3296034" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/linesurflogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1VqtaQ7zlOoC8ra2XeYRLoWxTcQ" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vra7wV19S2L6bRprJL8FjEx3LI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +32,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vcrab\Documents\linesurf.github.io\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vcrab\Documents\linesurf.github.io\assets" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -42,16 +62,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60511697-27ed-4e72-a56e-657803da574b" name="Default Changelist" comment="" />
-      <created>1577992515358</created>
+      <changelist id="815fd173-5f98-4c37-8548-a308d3296034" name="Default Changelist" comment="" />
+      <created>1578013503937</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1577992515358</updated>
-      <workItem from="1577992518982" duration="763000" />
+      <updated>1578013503937</updated>
+      <workItem from="1578013507346" duration="2844000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="35" key="#Intentions" timestamp="1578013778276">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="274" y="35" key="#Intentions/0.0.1920.1050@0.0.1920.1050" timestamp="1578013778276" />
+    <state x="185" y="18" key="SettingsEditor" timestamp="1578015684825">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="185" y="18" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578015684825" />
   </component>
 </project>
